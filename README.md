@@ -7,8 +7,9 @@ Building a Counter App with Redux Toolkit: A Journey in State Management, create
 
 🔄 State Management Made Effortless: With Redux Toolkit, handling state becomes a breeze. We'll witness how Redux Toolkit abstracts away the complexities of Redux boilerplate code, allowing us to focus on building functionality and delivering a seamless user experience.
 
-git clone 
-cd
+
+git clone https://github.com/alokinfo30/redux-toolkit-counter.git
+cd redux-toolkit-counter
 npm run dev
 
 **Development steps**
